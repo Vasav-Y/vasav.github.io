@@ -203,17 +203,9 @@ line-height: 5px;
 	height: 100px;
 }
 
-.
 
-/* Style the search box inside the navigation bar */
-.topnav input[type=text] {
-  float: right;
-  margin: 50px 50px;
-  font-size: 17px;
-  
-  width: 80%;
-  height: 500px;
-}
+
+
 
 .footer {
 width: 80%;
