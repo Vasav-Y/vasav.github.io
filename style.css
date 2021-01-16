@@ -119,6 +119,12 @@ header {
 	float: left;
 	position: fixed;
 }
+.header { background-color: #E8E3F2; }
+
+
+
+
+
 
 header .name {
 	font: Arial;
